@@ -18,13 +18,13 @@ ip address 200.200.201.1 255.255.255.0
 
 no sh
 
-int loopback 1
+int loopback 3
 
 ip address 100.100.101.1 255.255.255.0
 
 no sh
 
-int loopback 2
+int loopback 4
 
 ip address 100.100.102.1 255.255.255.0
 
